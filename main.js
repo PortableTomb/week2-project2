@@ -4,8 +4,9 @@
 // 1. Output each item in the following Array to your console:
 var livingRoom = ['couch', 'lamp', 'rug', 'shelf'];
 for (var i = 0; i <= livingRoom.length; i++){
+	console.log(livingRoom[i]);
 }
-console.log(livingRoom);
+
 
 // 2. Using a loop, log numbers 22-33 in the console.
 console.log("Numbers 22 through 33.");
